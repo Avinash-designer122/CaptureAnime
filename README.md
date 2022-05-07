@@ -1,0 +1,2 @@
+# CaptureAnime
+capture
